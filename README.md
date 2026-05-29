@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Gourav 👋
 
-<!--
-**gouravinsights/gouravinsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analytics | Marketing Analytics | Data Visualization
 
-Here are some ideas to get you started:
+I am a Business Analytics professional focused on transforming data into actionable business insights. My experience spans marketing analytics, KPI reporting, dashboard development, performance analysis, and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **BITS Pilani WILP**, where I contribute to data-driven decision-making through analytics, reporting, and performance evaluation initiatives. I enjoy solving business problems using data and translating complex information into meaningful recommendations for stakeholders.
+
+---
+
+## Professional Interests
+
+* Business Analytics
+* Marketing Analytics
+* Business Intelligence
+* Data Visualisation
+* KPI & Performance Management
+* Dashboard Development
+* Decision Science
+
+---
+
+## Tools & Technologies
+
+**Analytics & BI**
+
+* Power BI
+* Microsoft Excel
+* Google Sheets
+* SQL
+* Tablue
+
+**Reporting & Visualization**
+
+* KPI Dashboards
+* Business Reporting
+* Data Storytelling
+* Performance Analytics
+
+**Productivity & Collaboration**
+
+* GitHub
+* Microsoft Office Suite
+* Google Workspace
+
+---
+
+## Core Skills
+
+* Marketing Analytics
+* Business Analytics
+* KPI Analysis
+* Performance Reporting
+* Data Visualisation
+* Dashboard Design
+* Trend Analysis
+* Executive Reporting
+* Stakeholder Communication
+
+---
+
+## Philosophy
+
+> Data becomes valuable when it drives better business decisions.
+
+---
+
+## Location
+
+📍 Bengaluru, India
+
+
