@@ -28,7 +28,7 @@ Currently working at **BITS Pilani WILP**, where I contribute to data-driven dec
 * Microsoft Excel
 * Google Sheets
 * SQL
-* Tablue
+* Tableau
 
 **Reporting & Visualization**
 
